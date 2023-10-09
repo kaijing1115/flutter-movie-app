@@ -210,7 +210,7 @@ class SearchListTile extends StatelessWidget {
         ),
         padding: EdgeInsets.zero,
         alignment: Alignment.centerRight,
-        onPressed: () => onRemovePressed,
+        onPressed: onRemovePressed,
       ),
     );
   }
